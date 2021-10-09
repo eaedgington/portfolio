@@ -1,0 +1,62 @@
+html{
+    margin-left: 7em;
+    margin-right: 7em;
+}
+span, h2{
+    font-family: 'Arvo', serif;
+}
+body{
+    font-family: 'lato', sans-serif;
+}
+/* NAV */
+.nav-link{
+    font-size: 20px;
+}
+.intro{
+    padding: 2em!important;
+    font-size: 45px;
+}
+
+/* ABOUT */
+.about-title{
+    text-align: center;
+}
+.about{
+    padding: 3em!important;
+}
+
+/* SKILLS */
+.skills{
+    margin-left: 15em;
+    margin-right: 15em;
+}
+h4{
+    text-align: center;
+}
+.skill-list{
+    padding: 3em;
+}
+.skills h2{
+    text-align: center;
+}
+/* PROJECTS */
+
+
+/* CONTACT */
+
+
+/* FOOTER */
+footer{
+    display: block;
+    box-sizing: border-box;
+}
+.btn.btn-home{
+    background: #e9e9e9;
+    border-style: none;
+}
+
+/* EXTRA */
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+}
