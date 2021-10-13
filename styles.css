@@ -14,8 +14,8 @@ body{
 }
 .intro{
     padding: 2em!important;
-    font-size: 45px;
 }
+
 
 /* ABOUT */
 .about-title{
@@ -43,7 +43,9 @@ h4{
 
 
 /* CONTACT */
-
+.contact{
+    padding: 4em!important;
+}
 
 /* FOOTER */
 footer{
