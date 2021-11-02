@@ -7,15 +7,35 @@ span, h2{
 }
 body{
     font-family: 'lato', sans-serif;
-}
-/* NAV */
-.nav-link{
-    font-size: 20px;
-}
-.intro{
-    padding: 2em!important;
+    background-color: #abc5dd;
+    color: white;
 }
 
+/* NAV */
+a.nav-link{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+.nav-link:hover {
+    color: yellow;
+  }
+.nav-header{
+    background-color: white;
+}
+
+/* INTRO */
+.nav-name{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+.intro{
+    padding-top: 5em;
+    padding-bottom: 5em;
+    margin-left: 105px!important;
+}
 
 /* ABOUT */
 .about-title{
@@ -23,21 +43,19 @@ body{
 }
 .about{
     padding: 3em!important;
+    color: black!important;
 }
 
 /* SKILLS */
-.skills{
-    margin-left: 15em;
-    margin-right: 15em;
+.py-5{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
 }
-h4{
-    text-align: center;
+.d-flex{
+    display: inline !important;
 }
-.skill-list{
-    padding: 3em;
-}
-.skills h2{
-    text-align: center;
+div.skill-list{
+    width:0% !important;
 }
 /* PROJECTS */
 
